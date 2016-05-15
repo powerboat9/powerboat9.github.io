@@ -2,5 +2,5 @@ h1 {
     position: fixed;
     bottom: 50%;
     right: 50%;
-    translate: transform(-50%, 0px);
+    translate: transform(50%, 50%);
 }
