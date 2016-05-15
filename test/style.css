@@ -1,6 +1,6 @@
 h1 {
     position: fixed;
-    bottom: 0px;
-    right: 0px;
+    bottom: 50%;
+    right: 50%;
     text-align: center;
 }
